@@ -10,3 +10,9 @@ Selective background modeling technique
 ## Object tracking
 Data association<br>
 ![alt=moving object tracking ](./ObjectTracking.png "Moving Objects Tracking")
+<<<<<<< HEAD
+=======
+Moving objects tracking<br>
+https://user-images.githubusercontent.com/19721447/191731611-a85db9f8-3f68-48a6-ac48-f9a2190d73a5.mov
+
+>>>>>>> eb5385a828ac6e7d44c8419f5fd8e95dd5785319
