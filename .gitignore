@@ -3,5 +3,7 @@ MODT.vcxproj
 MODT.vcxproj.user
 out_demo50.avi
 out_demo.avi
+out_demo_.avi
+out_demo_detection.avi
 out_demo_share.avi
 x64/

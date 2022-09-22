@@ -28,7 +28,7 @@ int main()
 	//to write the output video
 	int frame_width = resol.width * 3;  //resolution of the output video
 	int frame_height = resol.height;
-	cv::VideoWriter video("out_demo.avi", cv::VideoWriter::fourcc('M', 'J', 'P', 'G'), 30, cv::Size(frame_width, frame_height));
+	cv::VideoWriter video("out_demo.avi", cv::VideoWriter::fourcc('M', 'J', 'P', 'G'), 30, cv::Size(frame_width, frame_height));	
 	int frame_count = 0;
 	
 	for (;;)
