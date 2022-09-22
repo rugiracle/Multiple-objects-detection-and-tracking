@@ -14,5 +14,7 @@ Data association<br>
 =======
 Moving objects tracking<br>
 [![Demo video Objects Tracking](https://user-images.githubusercontent.com/19721447/191731611-a85db9f8-3f68-48a6-ac48-f9a2190d73a5.mov)]
-
+<br>
+<br>
+![alt=Demo video Objects Tracking ](./out_demo.mov  "moving objects tracking")
 
