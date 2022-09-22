@@ -1,6 +1,6 @@
 #include "BackgroundLearning.h"
 
-BackgroundLearning::BackgroundLearning():alphaLearn(0.05), alphaDetection(0.05), learningFrames(-1), counter(0), minVal(0.0), maxVal(1.0),
+BackgroundLearning::BackgroundLearning():alphaLearn(0.05), alphaDetection(0.05), learningFrames(50), counter(0), minVal(0.0), maxVal(1.0),
 threshold(15)
 {
 	std::cout << "BackgroundLearning()" << std::endl;

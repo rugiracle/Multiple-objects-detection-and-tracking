@@ -39,7 +39,7 @@ int main()
 			std::cout << "ENd of the viedo file" << std::endl;
 			return -1;
 		}
-		if (frame_count == 500)
+		if (frame_count == 290)
 			break;
 		cv::resize(frgrd_, frgrd, resol);
 		frgrd_detection.process(frgrd, img_mask, img_bkgmodel, &detect_blobs);		
