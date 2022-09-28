@@ -1,5 +1,5 @@
 #  Multiple objects detection and tracking  in C++ and using Opencv libraries<br> 
-[Simple tutorial]
+
 
 
 ## Objects detection using RGB video
@@ -8,7 +8,7 @@
 ![alt=moving object detection ](./ObjectDetection.png "Moving Objects Detection")
 
 ## Object tracking
-###Data association<br>
+### Data association<br>
 ![alt=moving object tracking ](./ObjectTracking.png "Moving Objects Tracking")
 <<<<<<< HEAD
 =======
