@@ -3,12 +3,12 @@
 
 
 ## Objects detection using RGB video
-### Background Modeling technique
-Selective background modeling technique
-### Moving objects detection
+### Moving objects detection via background modeling technique
+ 
 ![alt=moving object detection ](./ObjectDetection.png "Moving Objects Detection")
+
 ## Object tracking
-Data association<br>
+###Data association<br>
 ![alt=moving object tracking ](./ObjectTracking.png "Moving Objects Tracking")
 <<<<<<< HEAD
 =======
