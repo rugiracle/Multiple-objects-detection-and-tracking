@@ -8,7 +8,7 @@
 ![alt=moving object detection ](./ObjectDetection.png "Moving Objects Detection")
 
 ## Object tracking
-### Data association<br>
+### Multiple objects tracking via data association<br>
 ![alt=moving object tracking ](./ObjectTracking.png "Moving Objects Tracking")
 <<<<<<< HEAD
 =======
